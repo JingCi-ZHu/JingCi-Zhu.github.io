@@ -3,9 +3,6 @@
 
 
 ## Welcome to Mr.Zhu's page!  
-### A little introduction
-Jingci Zhu was born in hebei, China. He received the B.S. degree from Tianjin University，Tianjin，China，in 2020.  
-His current research interests include microwave communication,RF and microwave components。
 
 
 
@@ -41,6 +38,9 @@ His current research interests include microwave communication,RF and microwave 
 
 
 ## Welcome to GitHub Pages
+### A little introduction
+Jingci Zhu was born in hebei, China. He received the B.S. degree from Tianjin University，Tianjin，China，in 2020.  
+His current research interests include microwave communication,RF and microwave components。
 
 You can use the [editor on GitHub](https://github.com/JingCi-ZHu/JingCi-Zhu.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
